@@ -1,5 +1,7 @@
-### php
-Estudos e Exercícios em PHP!!!!
+<img align="center" alt="sudoPedro-PHP" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="880" height="880"/>
+
+<br>
+
 <h1 align="center">
   <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/PHPREPOSITORY.png" width="480" height="480">
 </h1>
