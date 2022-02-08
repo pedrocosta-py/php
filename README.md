@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img align="center" alt="sudoPedro-PHP" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="980" height="980"/>
+=======
+<img align="center" alt="sudoPedro-PHP" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="880" height="880"/>
+>>>>>>> 2fee3f55aa1b7d29091f238cca1553bea0bd2d27
 
 <br>
 
