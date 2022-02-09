@@ -1,11 +1,11 @@
-<img align="center" alt="sudoPedro-PHP" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="980" height="980"/>
+<img align="center" alt="sudoPedro-PHP" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="580" height="580"/>
 
 <br>
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/PHPREPOSITORY.png" width="480" height="480">
 </h1>
-
+ -->
 ``` php
 <?php
 
