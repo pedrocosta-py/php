@@ -7,7 +7,7 @@ $nome = "Pedro Arthur";
 $sobrenome = "Da Costa";
 echo $nome;
 echo '<br>';
-echo $nome.$sobrenome;
+echo "$nome.$sobrenome";
 
 
 
